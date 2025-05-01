@@ -43,7 +43,7 @@ This project is part of an academic assignment focused on digital image and vide
 All dependencies are listed in the `requirements.txt` file.
 
 write this command in vs code terminal:
- **pip install -r requirements.txt
+ pip install -r requirements.txt
 ---
 
 ## 💻 Installation Instructions
