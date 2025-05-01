@@ -44,6 +44,8 @@ All dependencies are listed in the `requirements.txt` file.
 
 write this command in vs code terminal:
  pip install -r requirements.txt
+ or you can just run this file  install_libraries.py
+ by : (" python install_libraries.py ")
 ---
 
 ## 💻 Installation Instructions
