@@ -1,5 +1,6 @@
 # OpenCV Image & Video Processing Project
-make by : ## E.Mohammad Bashar Khalaf 
+made by: **E. Mohammad Bashar Khalaf**
+
 This project is part of an academic assignment focused on digital image and video processing using OpenCV and Python. The project is divided into two main parts:
 
 ---
@@ -42,8 +43,7 @@ This project is part of an academic assignment focused on digital image and vide
 All dependencies are listed in the `requirements.txt` file.
 
 write this command in vs code terminal:
-# pip install -r requirements.txt
-
+ **pip install -r requirements.txt
 ---
 
 ## 💻 Installation Instructions
