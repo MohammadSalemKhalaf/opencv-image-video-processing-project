@@ -19,7 +19,6 @@ def main():
         if not ret:
             break
 
-        # Apply current filter
         if current_filter == "edge":
             output = edge_detection(frame)
         elif current_filter == "gray":
